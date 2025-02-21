@@ -6,5 +6,5 @@ repositorio de ejemplo
 
 1. primero
 2. segundo
-   -lista 1 elemento
-   -lista 2 elementos
+   - lista 1 elemento
+   - lista 2 elementos
